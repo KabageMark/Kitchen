@@ -1,0 +1,37 @@
+.jumbotron {
+  background-image: url("../img/assets/backgrounds/landing.jpg");
+  background-size: auto;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+.cool2 {
+  text-align: center;
+}
+
+
+.cool3 {
+
+
+}
+
+.cool4 {
+
+}
+
+.cool5 {
+  background-image: url("../img/assets/backgrounds/foodsBg.jpg");
+  background-size: cover;
+  height: 636px;
+  width: 2000px;
+}
+
+.cool8 {
+  background-image: url("../img/assets/backgrounds/subscribe.jpg");
+  background-size: cover;
+  height: 436px;
+  width: 2000px;
+}
