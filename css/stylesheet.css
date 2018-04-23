@@ -7,39 +7,30 @@ h1 {
   text-align: center;
   color: white;
 }
-
-.cool2 {
+.lunch{
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -670%);
+  color: white;
   text-align: center;
+  font-size: 98%;
 }
-
-
-.cool3 {
-
-
-}
-
-.cool4 {
-
-}
-
-.cool5 {
-  background-image: url("../img/assets/backgrounds/foodsBg.jpg");
-  background-size: cover;
-  height: 636px;
-  width: 2000px;
-}
-
-.cool8 {
-  background-image: url("../img/assets/backgrounds/subscribe.jpg");
-  background-size: cover;
-  height: 436px;
-  width: 2000px;
-}
-.cool9 {
-  background-color: orange;
-  background-size: cover;
-  height: 636px;
-  width: 2000px;
+.breakfast{
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -670%);
+  color: white;
   text-align: center;
-
+  font-size: 98%;
+}
+.dinner{
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -670%);
+  color: white;
+  text-align: center;
+  font-size: 98%;
 }
