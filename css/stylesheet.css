@@ -34,3 +34,13 @@ h1 {
   text-align: center;
   font-size: 98%;
 }
+.back{
+  background-image: url("../img/assets/backgrounds/foodsBg.jpg");
+  width:100%;
+  height: 400px;
+}
+.subscribe{
+  background-image: url("../img/assets/backgrounds/subscribe.jpg");
+  width:100%;
+  height: 300px;
+}
