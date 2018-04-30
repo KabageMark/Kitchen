@@ -1,0 +1,105 @@
+.jumbotron {
+  background-image: url("../img/assets/backgrounds/landing.jpg");
+  background-size: auto;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+#top1{
+  color: white;
+}
+#happy1{
+  border-style:groove;
+  background-color: grey;
+  padding-top:15%;
+  padding-bottom:7%;
+}
+#party1{
+  border-style:groove;
+  background-color:#F15A29;
+  padding-top:15%;
+  padding-bottom:7%;
+}
+.lunch{
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -670%);
+  color: white;
+  text-align: center;
+  font-size: 98%;
+}
+.breakfast{
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -670%);
+  color: white;
+  text-align: center;
+  font-size: 98%;
+
+}
+.dinner{
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -670%);
+  color: white;
+  text-align: center;
+  font-size: 98%;
+}
+.back{
+  background-image: url("../img/assets/backgrounds/foodsBg.jpg");
+  width:100%;
+  height: 400px;
+}
+.subscribe{
+  background-image: url("../img/assets/backgrounds/subscribe.jpg");
+  width:100%;
+  height: 300px;
+  margin-right: 40px;
+  margin-left: 0px;
+}
+.dope1{
+  box-shadow:5px 5px #C2C1BA;
+}
+.dope2{
+  box-shadow:5px 5px #C2C1BA;
+}
+.customer1{
+  border-style: groove;
+  padding-right: 100px;
+  padding-left: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#sub1{
+  color:white;
+  background-color:#F15A29;
+  text-decoration-color: :none;
+  width:100px;
+  float: right;
+  margin-left:600px;
+  margin-right:420px;
+  margin-bottom: 0px;
+  margin-top:0px;
+}
+#sub2{
+  color: white;
+  font-size:50px;
+}
+#food1{
+  padding-left:600px;
+  padding-right:600px;
+}
+#food2{
+  margin-left:400px;
+  margin-right:400px;
+}
+.footer1{
+  background-color:#F15A29;
+}
