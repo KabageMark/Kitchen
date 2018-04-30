@@ -53,7 +53,9 @@ h1 {
 .back{
   background-image: url("../img/assets/backgrounds/foodsBg.jpg");
   width:100%;
-  height: 400px;
+  height: 800px;
+  padding-left: 200px;
+  padding-top: 50px;
 }
 .subscribe{
   background-image: url("../img/assets/backgrounds/subscribe.jpg");
@@ -102,4 +104,50 @@ h1 {
 }
 .footer1{
   background-color:#F15A29;
+}
+.kempinski{
+	background-image: url("../assets/backgrounds/foodsBg.jpg");
+	background-attachment: fixed;
+	height: auto;
+	overflow: hidden;
+	clear: both;
+	opacity: .9;
+}
+
+.shot{
+	clear: both;
+	overflow: hidden;
+	padding-top: 130px;
+	padding-bottom: 130px;
+
+}
+
+#menyu{
+	background-color: white;
+	margin: 0;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+#lonely:hover{
+	opacity: 0.5;
+	color: #F15A29;
+}
+
+
+
+#selected{
+	background-color: white;
+	color: #F15A29;
+}
+
+#selected:hover{
+	color: #F15A29;
+	background-color:#E1E1E1;
+	border-right: #F0F3F4 outset;
+}
+
+
+#lonely ,  #selected{
+	padding : 22px;
+	font-weight: bold;
 }
