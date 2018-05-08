@@ -7,7 +7,12 @@
     font-size: 50px;
     margin: 6px 3px;
 }
-
+.glyphicon-chevron-left{
+  float:left;
+}
+.glyphicon-chevron-right{
+  float:right;
+}
 h1 {
   text-align: center;
   color: white;
