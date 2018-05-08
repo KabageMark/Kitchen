@@ -8,10 +8,10 @@
     margin: 6px 3px;
 }
 .glyphicon-chevron-left{
-  float:left;
+  transform: translate(125px, -660%);
 }
 .glyphicon-chevron-right{
-  float:right;
+
 }
 h1 {
   text-align: center;
