@@ -14,10 +14,10 @@
   transform: translate(125px, -660%);
 }
 #arrow5{
-
+  transform: translate(30px, -40%);
 }
 #arrow6{
-  
+  transform: translate(-30px, -40%);
 }
 h1 {
   text-align: center;
